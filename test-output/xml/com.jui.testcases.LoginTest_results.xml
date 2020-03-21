@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Ishrat Zahan Jui/Downloads/CucumberSeleniumFramework-master/testdemo"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.858">
+  <properties />
+  
+  
+            <testcase name="loginAsBankManager" time="3.858" classname="com.jui.testcases.LoginTest" />
+      
+</testsuite>

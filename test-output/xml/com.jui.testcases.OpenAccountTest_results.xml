@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="open account Test"
+           tests="18"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1090.240">
+  <properties />
+  
+  
+            <testcase name="openAccountTest" time="60.948" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="63.041" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="59.718" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="59.676" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="63.471" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="59.436" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="60.573" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="59.250" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="58.656" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="61.358" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="61.100" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="60.914" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="58.760" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="59.770" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="60.133" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="60.110" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="60.963" classname="com.jui.testcases.OpenAccountTest" />
+                <testcase name="openAccountTest" time="62.363" classname="com.jui.testcases.OpenAccountTest" />
+      
+</testsuite>
