@@ -11,13 +11,13 @@
     
 	<test name="Bank Manager Login Test">
 		<classes>
-			<class name="com.jui.testcases.BankManagerLoginTest" />
+			<class name="com.jui.testcases.LoginTest" />
 		</classes>
 	</test> <!-- Test -->
 
 	<test name="open account Test">
 		<classes>
-			<class name="com.jui.testcases.OpenAccountTest" />
+			<class name="com.jui.testcases.Riderequest" />
 		</classes>
 	</test> <!-- Test -->
 
