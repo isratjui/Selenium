@@ -39,7 +39,7 @@ public class TestBase {
 	public static Properties config = new Properties();
 	public static Properties OR = new Properties();
 	public static FileInputStream fis;
-	public static Logger log = Logger.getLogger("devpinoyLogger");
+	public static Logger log = Logger.getLogger("obhailog");
 
 	public static ExcelReader excel = new ExcelReader(
 			System.getProperty("user.dir") + "\\src\\test\\resources\\excel\\testdata.xlsx");
